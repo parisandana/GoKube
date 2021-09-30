@@ -1,4 +1,4 @@
-module github.com/parisandana/GoKube
+module github.com/parisandana/gokube
 
 go 1.15
 
